@@ -1,13 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System; 
+using System.Collections.Generic; 
+using System.Linq; 
+using System.Text; 
+using System.Threading.Tasks; 
 
-namespace ConsoleApplication1
+namespace ConsoleApplication1 
 {
     class Centre_Radius
-    {
+     {
         public double x,y,r; 
     //contructor
     public Centre_Radius(double X,double Y,double R)
