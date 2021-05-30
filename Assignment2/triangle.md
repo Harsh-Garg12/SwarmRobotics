@@ -38,9 +38,9 @@ namespace Assignment2
         {
             //Decleration of objects of class vector 
 
-            Vector A = new Vector(Convert.ToInt32(Console.ReadLine()),Convert.ToInt32(Console.ReadLine()));
-            Vector B = new Vector(Convert.ToInt32(Console.ReadLine()),Convert.ToInt32(Console.ReadLine()));
-            Vector C = new Vector(Convert.ToInt32(Console.ReadLine()), Convert.ToInt32(Console.ReadLine()));
+            Vector A = new Vector(Convert.ToDouble(Console.ReadLine()),Convert.ToDouble(Console.ReadLine()));
+            Vector B = new Vector(Convert.ToDouble(Console.ReadLine()),Convert.ToDouble(Console.ReadLine()));
+            Vector C = new Vector(Convert.ToDouble(Console.ReadLine()), Convert.ToDouble(Console.ReadLine()));
 
             // point that need to be check
 
